@@ -1,0 +1,18 @@
+{
+ "ref": "027101312002",
+ "refDisplay": "0271 01 312002",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM BE3R DEPUIS OPR 07980",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0016"
+  }
+ ]
+}

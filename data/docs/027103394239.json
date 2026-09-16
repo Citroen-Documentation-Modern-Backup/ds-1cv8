@@ -1,0 +1,23 @@
+{
+ "ref": "027103394239",
+ "refDisplay": "0271 03 394239",
+ "title": "CANALISATION ALIMENT FREIN",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE ET ANTI-BLOCAGE ROUE ET SUSPENSION HYDRACTIVE DEPUIS OPR 06741",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3J",
+   "fctId": "FCT0042"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3J",
+   "fctId": "FCT0042"
+  }
+ ]
+}

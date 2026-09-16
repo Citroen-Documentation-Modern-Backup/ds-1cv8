@@ -1,0 +1,23 @@
+{
+ "ref": "027103394431",
+ "refDisplay": "0271 03 394431",
+ "title": "CANALISATION RETOUR SUSPENSION AV",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTANCE NON VARIABLE ET POMPE 5 PISTONS ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  }
+ ]
+}

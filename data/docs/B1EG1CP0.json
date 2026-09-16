@@ -1,0 +1,25 @@
+{
+ "ref": "B1EG1CP0",
+ "refDisplay": "B1EG1CP0",
+ "title": "Dépose - repose : courroie de distribution ",
+ "nature": "Dépose-pose",
+ "applicability": "BVM ML5T ET BVM5 OU BVA 4HP20 ET BVA4",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3H",
+   "fctId": "FCT0007"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "027101223032",
+ "refDisplay": "0271 01 223032",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "REFRIGERATION JUSQU’A OPR 07083",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F5U",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F5U",
+   "fctId": "FCT0008"
+  }
+ ]
+}

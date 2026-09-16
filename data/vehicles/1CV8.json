@@ -1,0 +1,231 @@
+{
+ "ldp": "1CV8",
+ "label": "XM II",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA5",
+     "lib": "BERLINE 5PTES"
+    },
+    {
+     "val": "B0DC5",
+     "lib": "BREAK 5PTES"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0F5T",
+     "lib": "2.0 i (XU10J2)"
+    },
+    {
+     "val": "B0F2Q",
+     "lib": "2.0 i 16v 135"
+    },
+    {
+     "val": "B0F2K",
+     "lib": "2.0 i 8v Turbo"
+    },
+    {
+     "val": "B0F5U",
+     "lib": "2.1 D"
+    },
+    {
+     "val": "B0F5V",
+     "lib": "2.1 TD (XUD11ATE)"
+    },
+    {
+     "val": "B0F2Y",
+     "lib": "2.1 TD (XUD11BTE)"
+    },
+    {
+     "val": "B0FM2",
+     "lib": "2.5 TD"
+    },
+    {
+     "val": "B0F3J",
+     "lib": "2.9 i V6 12v 170"
+    },
+    {
+     "val": "B0F3K",
+     "lib": "2.9 i V6 24v 200"
+    },
+    {
+     "val": "B0F3H",
+     "lib": "3.0 i V6 24v 194"
+    },
+    {
+     "val": "B0F3D",
+     "lib": "3.0 i V6 24v 200"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA5&B0F=B0F5T",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F5T"
+   },
+   "label": "BERLINE 5PTES · 2.0 i (XU10J2)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2Q",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2Q"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 16v 135"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2K",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2K"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 8v Turbo"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F5U",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F5U"
+   },
+   "label": "BERLINE 5PTES · 2.1 D"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F5V",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F5V"
+   },
+   "label": "BERLINE 5PTES · 2.1 TD (XUD11ATE)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F2Y",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F2Y"
+   },
+   "label": "BERLINE 5PTES · 2.1 TD (XUD11BTE)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FM2",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FM2"
+   },
+   "label": "BERLINE 5PTES · 2.5 TD"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F3J",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F3J"
+   },
+   "label": "BERLINE 5PTES · 2.9 i V6 12v 170"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F3K",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F3K"
+   },
+   "label": "BERLINE 5PTES · 2.9 i V6 24v 200"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F3H",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F3H"
+   },
+   "label": "BERLINE 5PTES · 3.0 i V6 24v 194"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F3D",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F3D"
+   },
+   "label": "BERLINE 5PTES · 3.0 i V6 24v 200"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2Q",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2Q"
+   },
+   "label": "BREAK 5PTES · 2.0 i 16v 135"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2K",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2K"
+   },
+   "label": "BREAK 5PTES · 2.0 i 8v Turbo"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F5U",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F5U"
+   },
+   "label": "BREAK 5PTES · 2.1 D"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F5V",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F5V"
+   },
+   "label": "BREAK 5PTES · 2.1 TD (XUD11ATE)"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F2Y",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F2Y"
+   },
+   "label": "BREAK 5PTES · 2.1 TD (XUD11BTE)"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0FM2",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0FM2"
+   },
+   "label": "BREAK 5PTES · 2.5 TD"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F3J",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F3J"
+   },
+   "label": "BREAK 5PTES · 2.9 i V6 12v 170"
+  },
+  {
+   "key": "B0D=B0DC5&B0F=B0F3H",
+   "selections": {
+    "B0D": "B0DC5",
+    "B0F": "B0F3H"
+   },
+   "label": "BREAK 5PTES · 3.0 i V6 24v 194"
+  }
+ ]
+}

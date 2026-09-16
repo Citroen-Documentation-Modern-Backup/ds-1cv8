@@ -1,0 +1,25 @@
+{
+ "ref": "C5HB0BP0",
+ "refDisplay": "C5HB0BP0",
+ "title": "Particularités : circuit de réfrigération",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 7483",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3H",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3H",
+   "fctId": "FCT0347"
+  }
+ ]
+}

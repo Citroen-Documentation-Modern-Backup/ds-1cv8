@@ -1,0 +1,23 @@
+{
+ "ref": "027101330075",
+ "refDisplay": "0271 01 330075",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MG ET DIRAVI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3J",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3J",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "027106175510",
+ "refDisplay": "0271 06 175510",
+ "title": "DEPOLLUTION CANISTER ABSORBEUR",
+ "nature": "",
+ "applicability": " SAUF (AS) ARABIE SAOUDITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F5T",
+   "fctId": "FCT0012"
+  }
+ ]
+}

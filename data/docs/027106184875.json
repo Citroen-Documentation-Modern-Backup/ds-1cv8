@@ -1,0 +1,23 @@
+{
+ "ref": "027106184875",
+ "refDisplay": "0271 06 184875",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "CATALYSEUR ET DEPOL US 87 (MOTEUR) JUSQU’A OPR 07238",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F5V",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F5V",
+   "fctId": "FCT0011"
+  }
+ ]
+}

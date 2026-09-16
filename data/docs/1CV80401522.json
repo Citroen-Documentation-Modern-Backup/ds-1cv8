@@ -1,0 +1,24 @@
+{
+ "ref": "1CV80401522",
+ "refDisplay": "1CV8 0 40 1522",
+ "title": "TUBE C/C ALIMENTATION DE CANALISATION A POMPE OU FILTRE",
+ "nature": "",
+ "applicability": "(X00E) XM II BERLINE 5PTES INJECTION XU10J4R",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0010"
+  }
+ ]
+}

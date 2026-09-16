@@ -1,0 +1,54 @@
+{
+ "ref": "1CV80581454",
+ "refDisplay": "1CV8 0 58 1454",
+ "title": "TUBE RIGIDE REFOULEMENT TURBO",
+ "nature": "",
+ "applicability": "(XTL4) XM II BERLINE 5PTES INJECTION TURBO XU10J2TE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F2K",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F5V",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0FM2",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2K",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F5V",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0FM2",
+   "fctId": "FCT0014"
+  }
+ ]
+}

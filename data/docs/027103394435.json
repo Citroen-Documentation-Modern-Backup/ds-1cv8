@@ -1,0 +1,18 @@
+{
+ "ref": "027103394435",
+ "refDisplay": "0271 03 394435",
+ "title": "CANALISATION RETOUR SUSPENSION AV",
+ "nature": "",
+ "applicability": "DIRAVI ET POMPE 5 PISTONS ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3K",
+   "fctId": "FCT0337"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "027101330040",
+ "refDisplay": "0271 01 330040",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM ME ET EMBRAYAGE CABLE CDE ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2K",
+   "fctId": "FCT0017"
+  }
+ ]
+}

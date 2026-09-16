@@ -1,0 +1,23 @@
+{
+ "ref": "027103394413",
+ "refDisplay": "0271 03 394413",
+ "title": "CANALISATION RETOUR SUSPENSION AV",
+ "nature": "",
+ "applicability": "DIRAVI ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  }
+ ]
+}

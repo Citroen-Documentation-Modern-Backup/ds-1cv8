@@ -1,0 +1,25 @@
+{
+ "ref": "C5DB03P0",
+ "refDisplay": "C5DB03P0",
+ "title": "Rôle et implantation : essuie-vitre(s) automatique(s)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "MONTAGE MULTIPLEXE DEPUIS SERIE 00NZ6001 JUSQU’A SERIE 00NZ6300",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0FM2",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0FM2",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "ref": "B1GT0AP0",
+ "refDisplay": "B1GT0AP0",
+ "title": "Évolution  : pompe à eau ",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 7665",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Y",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Y",
+   "fctId": "FCT0009"
+  }
+ ]
+}

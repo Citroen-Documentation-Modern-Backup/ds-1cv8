@@ -1,0 +1,28 @@
+{
+ "ref": "027103394150A",
+ "refDisplay": "0271 03 394150A",
+ "title": "CANALISATION ALIMENT SUSPENSION AR",
+ "nature": "",
+ "applicability": "DIRAVI ET SUSPENSION HYDRACTIVE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F3K",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F3J",
+   "fctId": "FCT0337"
+  }
+ ]
+}

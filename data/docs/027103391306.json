@@ -1,0 +1,23 @@
+{
+ "ref": "027103391306",
+ "refDisplay": "0271 03 391306",
+ "title": "SUPPORT TENDEUR POMPE HP",
+ "nature": "",
+ "applicability": "POMPE 6+2 + ANTI-AFFAISSEMENT DEPUIS OPR 07084",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DA5&B0F=B0F2Q",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1CV8",
+   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
+   "fctId": "FCT0337"
+  }
+ ]
+}
