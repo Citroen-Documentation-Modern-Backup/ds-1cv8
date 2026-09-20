@@ -1,18 +1,1 @@
-{
- "ref": "027101330045",
- "refDisplay": "0271 01 330045",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM ME ET EMBRAYAGE CABLE CDE ASSISTEE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CV8",
-   "variantKey": "B0D=B0DC5&B0F=B0F2Q",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"027101330045","refDisplay":"0271 01 330045","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM ME ET EMBRAYAGE CABLE CDE ASSISTEE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CV8","variantKey":"B0D=B0DC5&B0F=B0F2Q","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CV8)(B0F2Q)(DBM10)(B0DC5)(DEC07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000049"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["mpr",{"catal":"0271","grp":"67","grp2":"01","maj":"20111022","numfich":"330045"},[["appl",{},["{(?1CV8)(B0F2Q)(DBM10)(B0DC5)(DEC07)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"m3300450","path":"/img/pr/50/m330/m3300450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000049","obsnfp":"NFP","ref":"00002200VE","refpg":"2200 VE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)(@BVM)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14 X 61"]]]],["reporg",{},[["monte",{},["(GM36)"]],["monte",{},["GM36"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201JE","refpg":"2201 JE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)(@BVM)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14 X 61"]]]],["reporg",{},[["monte",{},["(GMC6)"]],["monte",{},[" GM36"]]]]]]]]]]]]}

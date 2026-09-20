@@ -1,18 +1,1 @@
-{
- "ref": "027102140040",
- "refDisplay": "0271 02 140040",
- "title": "INJECTEURS - FAISCEAU INJECTION",
- "nature": "",
- "applicability": "BVM",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CV8",
-   "variantKey": "B0D=B0DA5&B0F=B0F5T",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"027102140040","refDisplay":"0271 02 140040","title":"INJECTEURS - FAISCEAU INJECTION","nature":"","applicability":"BVM","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CV8","variantKey":"B0D=B0DA5&B0F=B0F5T","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CV8)(B0F5T)(@BVM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000365"},[]],["thesaurus",{"type":"10","code":"000180"},[]],["thesaurus",{"type":"10","code":"000715"},[]],["thesaurus",{"type":"10","code":"000722"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0271","grp":"35","grp2":"02","maj":"20111022","numfich":"140040"},[["appl",{},["{(?1CV8)(B0F5T)(@BVM)}"]],["sti",{"ident":"3501"},[]],["img",{"numfich":"m1400400","path":"/img/pr/00/m140/m1400400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000365","ref":"0000198467","refpg":"1984 67"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000180","ref":"0000198214","refpg":"1982 14"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000715","obsnfp":"NFP","ref":"0000157046","refpg":"1570 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000722","obsnfp":"NFP","ref":"00001563A9","refpg":"1563 A9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"00006922C7","refpg":"6922 C7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-30"]]]]]]]]]]]]}

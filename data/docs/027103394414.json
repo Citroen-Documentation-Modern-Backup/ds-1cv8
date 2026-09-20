@@ -1,18 +1,1 @@
-{
- "ref": "027103394414",
- "refDisplay": "0271 03 394414",
- "title": "CANALISATION RETOUR SUSPENSION AV",
- "nature": "",
- "applicability": "DIRAVI ET CONDUITE A GAUCHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CV8",
-   "variantKey": "B0D=B0DA5&B0F=B0F3K",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"027103394414","refDisplay":"0271 03 394414","title":"CANALISATION RETOUR SUSPENSION AV","nature":"","applicability":"DIRAVI ET CONDUITE A GAUCHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CV8","variantKey":"B0D=B0DA5&B0F=B0F3K","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CV8)(B0F3K)(DDD03)(DCX01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001254"},[]],["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"10","code":"001404"},[]],["mpr",{"catal":"0271","grp":"279","grp2":"03","maj":"20111022","numfich":"394414"},[["appl",{},["{(?1CV8)(B0F3K)(DDD03)(DCX01)}"]],["sti",{"ident":"27901"},[]],["img",{"numfich":"m3944140","path":"/img/pr/40/m394/m3944140.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001254","obsnfp":"NFP","ref":"00005270S7","refpg":"5270 S7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96027143","refpg":"96 027 143"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96095231","refpg":"96 095 231"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4-534"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96095232","refpg":"96 095 232"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4-484"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96095236","refpg":"96 095 236"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4-200"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96095235","refpg":"96 095 235"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4-50"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96095234","refpg":"96 095 234"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4-194"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96075618","refpg":"96 075 618"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 2X4"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001404","ref":"00005280P5","refpg":"5280 P5"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 3"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"001404","obsnfp":"NFP","ref":"5461347","refpg":"5 461 347"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4 DIAM"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"001404","ref":"5451210","refpg":"5 451 210"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3 DIAM 2,6"]]]]]]]]]]]]}

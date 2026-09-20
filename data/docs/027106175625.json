@@ -1,18 +1,1 @@
-{
- "ref": "027106175625",
- "refDisplay": "0271 06 175625",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CV8",
-   "variantKey": "B0D=B0DA5&B0F=B0F3K",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"027106175625","refDisplay":"0271 06 175625","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CV8","variantKey":"B0D=B0DA5&B0F=B0F3K","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CV8)(B0F3K)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"21","code":"L1767079"},[]],["thesaurus",{"type":"21","code":"L1767080"},[]],["mpr",{"catal":"0271","grp":"54","grp2":"06","maj":"20111022","numfich":"175625"},[["appl",{},["{(?1CV8)(B0F3K)}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"m1756250","path":"/img/pr/50/m175/m1756250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"000016282V","refpg":"1628 2V"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]],["obsligne",{"ident":"L1767079"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 1500"]]]]]],["pr",{"codesi":"015515","ref":"E144008","refpg":"E144008","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"000016282X","refpg":"1628 2X"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)}"]],["obsligne",{"ident":"L1767080"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 800"]]]]]],["pr",{"codesi":"015515","ref":"E144008","refpg":"E144008","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)(%L1)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004662","ref":"00006980A7","refpg":"6980 A7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CV8)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 100"]]]]]]]]]]]]}

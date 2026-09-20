@@ -1,18 +1,1 @@
-{
- "ref": "027101330035",
- "refDisplay": "0271 01 330035",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM ME ET EMBRAYAGE CABLE CDE ASSISTEE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CV8",
-   "variantKey": "B0D=B0DA5&B0F=B0F2K",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"027101330035","refDisplay":"0271 01 330035","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM ME ET EMBRAYAGE CABLE CDE ASSISTEE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CV8","variantKey":"B0D=B0DA5&B0F=B0F2K","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CV8)(B0F2K)(DBM10)(B0DA5)(DEC07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0008492"},[]],["thesaurus",{"type":"21","code":"L1756285"},[]],["thesaurus",{"type":"21","code":"L1756284"},[]],["mpr",{"catal":"0271","grp":"67","grp2":"01","maj":"20111022","numfich":"330035"},[["appl",{},["{(?1CV8)(B0F2K)(DBM10)(B0DA5)(DEC07)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0008492"},[]],["img",{"numfich":"m3300350","path":"/img/pr/50/m330/m3300350.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002222H6","refpg":"2222 H6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)(@BVM)}"]],["obsligne",{"ident":"L1756285"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(14X59)-CT(21X26)P"]]]],["reporg",{},[["monte",{},["(GM32)"]],["monte",{},[" GM39"]],["monte",{},[" GM32"]],["monte",{},[" GM19"]],["monte",{},["(GM39)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002223FW","refpg":"2223 FW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CV8)(@BVM)(~2)}"]],["obsligne",{"ident":"L1756284"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(14X59)-CT 21X26P"]]]],["reporg",{},[["monte",{},["GM39"]],["monte",{},["(GMC9)"]],["monte",{},["GMA9"]],["monte",{},["GMC2"]],["monte",{},["(GMC2)"]],["monte",{},["GMC9"]],["monte",{},["GM19"]],["monte",{},["GM32"]]]]]]]]]]]]}
